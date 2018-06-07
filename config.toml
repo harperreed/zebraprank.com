@@ -5,6 +5,9 @@ theme = "harperrules-single-hugo"
 publishDir = "docs"
 copyright = "2013"
 
+disableKinds = ["taxonomy", "taxonomyTerm", "category", "sitemap", "RSS", "404", "robotsTXT", "home", "section"]
+
+
 [params]
   ga_id = "UA-70650-71"
 
