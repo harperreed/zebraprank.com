@@ -1,7 +1,7 @@
 baseURL = "http://zebraprank.com/"
 languageCode = "en-us"
 title = "The Zebra Prank - We wrapped our parents car!! by Dylan and Harper Reed"
-theme = "harperrules-single"
+theme = "harperrules-single-hugo"
 publishDir = "docs"
 
 [Permalinks]
