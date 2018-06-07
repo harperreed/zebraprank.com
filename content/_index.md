@@ -1,6 +1,6 @@
 +++
 title = "The Zebra Prank - We wrapped our parents car!! by Dylan and Harper Reed"
-description = "The Zebra Prank - We wrapped our parents car!! by Dylan and Harper Reed"
+description = "We wrapped our parents car like a zebra!"
 lastmod = "2018-01-01"
 authors = "Dylan Reed and Harper Reed"
 image = "http://www.zebraprank.com/images/dad_fingers_jpg"
