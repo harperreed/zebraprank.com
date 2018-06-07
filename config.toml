@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "The Zebra Prank - We wrapped our parents car!! by Dylan and Harper Reed"
 theme = "harperrules-single-hugo"
 publishDir = "docs"
+copyright = "2013"
 
 [params]
   ga_id = "UA-70650-71"
