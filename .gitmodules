@@ -1,0 +1,3 @@
+[submodule "themes/harperrules-single-hugo"]
+	path = themes/harperrules-single-hugo
+	url = git@github.com:harperreed/harperrules-single-hugo.git
