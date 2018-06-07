@@ -5,7 +5,7 @@ theme = "harperrules-single-hugo"
 publishDir = "docs"
 copyright = "2013"
 
-disableKinds = ["taxonomy", "taxonomyTerm", "category", "sitemap", "RSS", "404", "robotsTXT", "home", "section"]
+disableKinds = ["taxonomy", "taxonomyTerm", "category", "sitemap", "RSS", "404", "robotsTXT", "section"]
 
 
 [params]
