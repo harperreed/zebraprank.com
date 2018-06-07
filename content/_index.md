@@ -11,7 +11,7 @@ authors = "Dylan Reed and Harper Reed"
 ### By @harper and @dylanreed
 
 
-{{< figure src="/images/dad_fingers_jpg" >}}
+<img src="/images/dad_fingers_jpg" class="img-responsive center-block" />
 
 # The story
 
@@ -25,7 +25,8 @@ A couple of months ago Harper mentioned to my dad that he always wanted to put a
 
 I called Harper up and told him that there was a car available for wrapping. Then the planning ensued. A lot of discussion happened about what to do to the car. We talked about putting our faces all over it or just really huge on the front. Then Harper hit on the best idea ever. 
 
-{{< figure src="/images/dylan_vw.jpg" title="Dylan's high school car" >}}
+
+<img src="/images/dylan_vw.jpg" class="img-responsive center-block" />
 
 Shortly after I turned 16 my mom, Harper and I went to Burlington to visit family. My dad didn't go because of work. Usually when he stayed home we would come home and he would have done some project around the house. And this time was no exception. 
 
@@ -80,12 +81,14 @@ I think people think our sons are crazy! However, the humor, passion and creativ
 
 We have a lot of pictures and media. We will post it here as they are created!
 
-{{< figure src="/images/zebra_1.jpg" >}}
-{{< figure src="/images/zebra_2.jpg" >}}
-{{< figure src="/images/zebra_3.jpg" >}}
-{{< figure src="/images/zebra_4.jpg" >}}
-{{< figure src="/images/zebra_5.jpg" >}}
-{{< figure src="/images/zebra_6.jpg" >}}
+<img src="/images/zebra_1.jpg" class="img-responsive center-block" />
+<img src="/images/zebra_2.jpg" class="img-responsive center-block" />
+<img src="/images/zebra_3.jpg" class="img-responsive center-block" />
+<img src="/images/zebra_4.jpg" class="img-responsive center-block" />
+<img src="/images/zebra_5.jpg" class="img-responsive center-block" />
+<img src="/images/zebra_6.jpg" class="img-responsive center-block" />
+
+
 
 
 
